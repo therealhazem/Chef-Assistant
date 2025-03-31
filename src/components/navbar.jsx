@@ -3,7 +3,7 @@ export default function Navbar(){
     <>
         <nav>
             <img src="/cheflogo.png" />
-            <h1>Chef Asisstant</h1>
+            <h1>Hazem's Chef Asisstant</h1>
         </nav>
     </>
     )
